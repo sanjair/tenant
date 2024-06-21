@@ -4,4 +4,4 @@ Create site for tenant and install apps
 
 #### License
 
-mit
+mit# tenant_management
